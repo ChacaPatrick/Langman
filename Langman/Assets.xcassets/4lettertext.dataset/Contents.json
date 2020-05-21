@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "4lettertext.txt",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
